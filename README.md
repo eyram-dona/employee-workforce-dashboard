@@ -27,7 +27,8 @@ Ce projet présente un **tableau de bord RH interactif** réalisé sous **Micros
 
 ## 📎 Aperçu visuel
 
-![Employee Workforce Dashboard](projet_excel.PNG)
+![Employee Workforce Dashboard
+
 
 ---
 
