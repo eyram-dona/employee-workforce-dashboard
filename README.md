@@ -1,48 +1,53 @@
 # 📊 Employee Workforce Dashboard
 
-Ce projet présente un **tableau de bord RH interactif** développé avec **Microsoft Excel**. Il permet d’analyser les données du personnel d’une entreprise et de faciliter la prise de décision pour les Ressources Humaines.
+Ce projet présente un **tableau de bord RH interactif** réalisé sous **Microsoft Excel**. Il fournit une vue d’ensemble claire et dynamique des effectifs d'une entreprise afin d'aider les équipes RH à prendre des décisions stratégiques basées sur les données.
 
 ---
 
-## 🧭 Objectifs du tableau de bord
+## 🧭 Objectifs du dashboard
 
-- Suivre le nombre total, actif et inactif d'employés
-- Analyser la répartition par **genre**, **tranche d'âge** et **département**
+- Visualiser le nombre total, actif et inactif d’employés
+- Analyser la répartition par **genre**, **tranche d’âge** et **département**
 - Identifier les **10 employés les mieux rémunérés**
-- Visualiser les **départs d’employés** selon plusieurs dimensions
-- Calculer l’**ancienneté moyenne** par poste et par genre
+- Suivre les **départs** par âge, genre et département
+- Étudier l’**ancienneté moyenne** selon le poste et le genre
 
 ---
 
-## 🛠️ Outils utilisés
+## 🛠️ Outils et fonctionnalités
 
 - **Microsoft Excel**
-  - Graphiques dynamiques
   - Tableaux croisés dynamiques
+  - Graphiques combinés
   - Segments (slicers)
-  - Formules avancées
+  - Mise en forme conditionnelle
+  - Nettoyage des données
 
 ---
 
-## 📎 Aperçu du tableau de bord
+## 📎 Aperçu visuel
 
-![Aperçu du dashboard RH](excel%20dashboard.PNG)
+![Employee Workforce Dashboard](excel%20dashboard.PNG)
 
 ---
 
-## 🧠 Compétences mises en œuvre
+## 🧠 Compétences développées
 
-- Analyse de données RH
-- Visualisation claire et interactive
-- Data storytelling
-- Nettoyage et structuration de données Excel
-- Automatisation du reporting
+- 📊 Analyse de données RH
+- 📈 Visualisation de données Excel
+- 🧩 Construction de tableaux de bord interactifs
+- 🧹 Structuration et nettoyage de données
+- 🎯 Data storytelling pour des prises de décisions stratégiques
 
 ---
 
 ## 📌 À propos
 
-Projet personnel dans le cadre de ma formation en **Data Analysis**.  
-Ce tableau de bord démontre ma capacité à **traduire des données brutes en insights exploitables pour les équipes RH**.
+Ce projet a été conçu dans le cadre de ma montée en compétences en **Data Analysis**, avec un focus sur l’analyse RH.  
+Il démontre ma capacité à transformer des données brutes en **informations exploitables** à travers un reporting visuel et clair.
+
+
+
+
 
 
