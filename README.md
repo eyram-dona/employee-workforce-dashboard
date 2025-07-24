@@ -1,30 +1,48 @@
 # 📊 Employee Workforce Dashboard
 
-Ce projet présente un **tableau de bord RH interactif** conçu sous **Microsoft Excel** pour analyser la composition et la dynamique des employés d’une entreprise.
-
-## 🎯 Objectifs
-- Visualiser les effectifs (total, actifs, inactifs)
-- Répartir les employés par **genre**, **âge**, **département**
-- Identifier les 10 employés les mieux rémunérés
-- Analyser les sorties d’employés (par âge, genre, département)
-- Mesurer l’ancienneté moyenne par poste et genre
-
-## 🛠️ Outils utilisés
-- Microsoft Excel
-- Graphiques dynamiques
-- Segments (slicers)
-- Tableaux croisés dynamiques
-
-## 📎 Aperçu
-
-![Aperçu du dashboard](excel%20dashboard.PNG)
-
-## 🧠 Compétences développées
-- Analyse de données RH
-- Visualisation avec Excel
-- Reporting interactif
-- Data storytelling
+Ce projet présente un **tableau de bord RH interactif** développé avec **Microsoft Excel**. Il permet d’analyser les données du personnel d’une entreprise et de faciliter la prise de décision pour les Ressources Humaines.
 
 ---
 
-🔗 **Projet réalisé dans le cadre de mon apprentissage en Data Analysis.**
+## 🧭 Objectifs du tableau de bord
+
+- Suivre le nombre total, actif et inactif d'employés
+- Analyser la répartition par **genre**, **tranche d'âge** et **département**
+- Identifier les **10 employés les mieux rémunérés**
+- Visualiser les **départs d’employés** selon plusieurs dimensions
+- Calculer l’**ancienneté moyenne** par poste et par genre
+
+---
+
+## 🛠️ Outils utilisés
+
+- **Microsoft Excel**
+  - Graphiques dynamiques
+  - Tableaux croisés dynamiques
+  - Segments (slicers)
+  - Formules avancées
+
+---
+
+## 📎 Aperçu du tableau de bord
+
+![Aperçu du dashboard RH](excel%20dashboard.PNG)
+
+---
+
+## 🧠 Compétences mises en œuvre
+
+- Analyse de données RH
+- Visualisation claire et interactive
+- Data storytelling
+- Nettoyage et structuration de données Excel
+- Automatisation du reporting
+
+---
+
+## 📌 À propos
+
+Projet personnel dans le cadre de ma formation en **Data Analysis**.  
+Ce tableau de bord démontre ma capacité à **traduire des données brutes en insights exploitables pour les équipes RH**.
+
+
