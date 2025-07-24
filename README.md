@@ -17,7 +17,7 @@ Ce projet présente un **tableau de bord RH interactif** conçu sous **Microsoft
 
 ## 📎 Aperçu
 
-![Aperçu du dashboard](projet_excel.PNG)
+![Aperçu du dashboard](excel_projet.PNG)
 
 ## 🧠 Compétences développées
 - Analyse de données RH
